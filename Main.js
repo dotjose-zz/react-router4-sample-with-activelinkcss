@@ -35,8 +35,7 @@ class Main extends Component {
               <div id="logo">
                   <div className="inner container">
                     <Link to="/">
-                      <span className="blue brand-text">Zemen</span>
-                      <span className="brand-text">Host</span>
+                      <span className="blue brand-text">ReactApp</span>
                     </Link>
                   </div>
               </div>
